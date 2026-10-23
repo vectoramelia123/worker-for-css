@@ -11,3 +11,5 @@ namespace SmartSQL.Models
         public string UUID { get; set; }
     }
 }
+
+// 4bc046

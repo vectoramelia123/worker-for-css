@@ -27,3 +27,5 @@ namespace SmartSQL.DocUtils
         public const string TABLE_STRUCTURE_CHAPTER_NAME = "表";
     }
 }
+
+// eaa743

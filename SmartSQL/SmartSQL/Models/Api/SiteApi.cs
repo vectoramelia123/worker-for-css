@@ -23,3 +23,5 @@ namespace SmartSQL.Models.Api
         public bool isEnable { get; set; }
     }
 }
+
+// 8a407d

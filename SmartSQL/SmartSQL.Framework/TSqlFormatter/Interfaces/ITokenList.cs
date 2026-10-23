@@ -30,3 +30,5 @@ namespace TSqlFormatter.Interfaces
         IList<IToken> GetRangeByIndex(int fromIndex, int toIndex);
     }
 }
+
+// 0d7af5

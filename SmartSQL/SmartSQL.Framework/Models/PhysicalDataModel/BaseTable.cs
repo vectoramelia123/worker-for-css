@@ -39,3 +39,5 @@ namespace SmartSQL.Framework.PhysicalDataModel
         public DateTime ModifyDate { get; set; }
     }
 }
+
+// eaf300

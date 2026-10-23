@@ -43,3 +43,5 @@ namespace SmartSQL.DocUtils.Dtos
         public List<string> Files { get; private set; }
     }
 }
+
+// 2ad4ae

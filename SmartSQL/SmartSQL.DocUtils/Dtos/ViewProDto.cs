@@ -45,3 +45,5 @@ namespace SmartSQL.DocUtils.Dtos
         public List<ColumnDto> Columns { get; set; }
     }
 }
+
+// 4b725f

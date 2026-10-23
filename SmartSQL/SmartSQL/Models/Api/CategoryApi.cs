@@ -32,3 +32,5 @@ namespace SmartSQL.Models.Api
         public List<SiteApi> sites { get; set; }
     }
 }
+
+// bc459d

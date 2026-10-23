@@ -24,3 +24,5 @@ namespace SmartSQL.Models
         public System.Windows.Controls.UserControl MainW { get; set; }
     }
 }
+
+// bd332c

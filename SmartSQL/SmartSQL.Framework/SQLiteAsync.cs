@@ -1472,3 +1472,5 @@ namespace SQLite
 	}
 }
 
+
+// de8bd2

@@ -42,3 +42,5 @@ namespace SmartSQL.DocUtils
         }
     }
 }
+
+// a02e42

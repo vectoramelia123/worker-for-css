@@ -70,3 +70,5 @@ namespace SmartSQL.Properties {
         }
     }
 }
+
+// 4c8f62

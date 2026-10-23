@@ -58,3 +58,5 @@ namespace SmartSQL.Framework.SqliteModel
         public bool IsSelected { get; set; }
     }
 }
+
+// ad2f3a

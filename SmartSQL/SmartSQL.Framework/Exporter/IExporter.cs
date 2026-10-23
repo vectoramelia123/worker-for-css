@@ -118,3 +118,5 @@ namespace SmartSQL.Framework.Exporter
         string DropColumnSql();
     }
 }
+
+// 34ca88

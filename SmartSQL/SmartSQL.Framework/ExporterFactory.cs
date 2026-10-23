@@ -60,3 +60,5 @@ namespace SmartSQL.Framework
         }
     }
 }
+
+// 4d4ee5

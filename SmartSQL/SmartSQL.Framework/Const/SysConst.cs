@@ -71,3 +71,5 @@ namespace SmartSQL.Framework.Const
         };
     }
 }
+
+// 524195

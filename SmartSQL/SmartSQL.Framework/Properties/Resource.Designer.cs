@@ -71,3 +71,5 @@ namespace SmartSQL.Framework.Properties {
         }
     }
 }
+
+// daf22c

@@ -23,3 +23,5 @@ namespace SmartSQL.Framework.Lang
         public abstract string BuildEntity();
     }
 }
+
+// fb73fd

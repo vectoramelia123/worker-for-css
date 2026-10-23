@@ -13,3 +13,5 @@ namespace SmartSQL.Models
         public int PasswordStrength { get; set; }
     }
 }
+
+// fa1b55

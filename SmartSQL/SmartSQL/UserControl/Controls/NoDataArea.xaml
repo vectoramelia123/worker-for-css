@@ -25,3 +25,4 @@
             Text="{Binding TipText}" />
     </Grid>
 </UserControl>
+

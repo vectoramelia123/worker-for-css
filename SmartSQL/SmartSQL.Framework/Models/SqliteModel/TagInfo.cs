@@ -47,3 +47,5 @@ namespace SmartSQL.Framework.SqliteModel
         public bool IsSelected { get; set; }
     }
 }
+
+// caffc2

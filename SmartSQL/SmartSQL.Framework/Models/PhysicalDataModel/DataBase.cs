@@ -15,3 +15,5 @@ namespace SmartSQL.Framework.PhysicalDataModel
         public long ItemCount { get; set; }
     }
 }
+
+// 93b5c0

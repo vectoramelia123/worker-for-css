@@ -189,3 +189,5 @@ namespace SmartSQL.Framework.SqliteModel
         }
     }
 }
+
+// 8543d0

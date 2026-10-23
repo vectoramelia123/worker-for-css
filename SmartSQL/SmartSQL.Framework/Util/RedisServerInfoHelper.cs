@@ -563,3 +563,5 @@ namespace SmartSQL.Framework.Util
         public long AvgTtl { get; set; }
     }
 }
+
+// a5d691

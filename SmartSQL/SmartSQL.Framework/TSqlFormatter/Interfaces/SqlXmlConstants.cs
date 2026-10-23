@@ -126,3 +126,5 @@ namespace TSqlFormatter.Interfaces
         public const string ANAME_SIMPLETEXT = "simpleText";
     }
 }
+
+// 984976

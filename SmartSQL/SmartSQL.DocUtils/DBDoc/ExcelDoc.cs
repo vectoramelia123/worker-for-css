@@ -487,3 +487,5 @@ namespace SmartSQL.DocUtils.DBDoc
         }
     }
 }
+
+// 742550

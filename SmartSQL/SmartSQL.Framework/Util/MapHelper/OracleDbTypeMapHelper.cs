@@ -40,3 +40,4 @@ namespace SmartSQL.Framework.Util
         }
     }
 }
+// ff1c4d
